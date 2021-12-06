@@ -59,15 +59,15 @@ LIST UNDER CONSTRUCTION
 ## Goals for 2022
 ### Green computing
 
-Our goal for 2022 is to start tracking our computational usage more systematically so that we can evaluate its environmental impact and work towards reducing it. We are also trying to set up a research project related to this.
+Our goal for 2022 is to implement systematic tracking of our computational usage so that we can evaluate its environmental impact and work towards reducing it. We are also trying to set up a research project where we evaluate the sustainability of the type of AI tools we develop.
 
 ### Open science
 
-Our goal is to share code and data connected to all papers published about our research.
+Our goal is to share code and data with each paper published about our research.
 
 ### Open education
 
-Our goal is to share even more educational materials for teachers and students so that more people have access to high-quality education related to AI, medicine and sustainability. This will include publication of lectures from the "AI in Medicine and Life Science" courses on youtube.
+Our goal is to share even more educational materials so that more people have access to high-quality education related to AI, medicine and sustainability. This will include publication of lectures from the "AI in Medicine and Life Science" courses on youtube.
 
 
 
