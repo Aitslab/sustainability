@@ -2,7 +2,8 @@
 Our group has had sustainability guidelines and a sustainability consultant ([Tobias Hörnlein](https://www.linkedin.com/in/toby-hörnlein-095a96112/))  for several years. As part of our sustainability efforts we will now also release sustainability reports every year. This document is the first draft and will be updated with additional information.
 
 ## Sustainability-related research
-We aim to contribute to the sustainable development goals in all of our research. Our work contributes knowledge about cell death- and lysosome-related diseases which affect a large amount of the global population, such as cancer, neurodegenerative diseases, stroke and COVID-19. We also do research related to understanding the effects of pollution. Pollution-induced disease is one of the most important global health issues, not least in low and middle income countries. In addition, we investigate pollution effects in other organisms. We also create AI-based tools for other researchers in medicine, life science and environmental research and consult and educate them about the uses, advantages and disadvantages of AI.
+We aim to contribute to the sustainable development goals in all of our research. Our work contributes knowledge about cell death- and lysosome-related diseases which affect a large amount of the global population, such as cancer, neurodegenerative diseases, stroke and COVID-19. We also do research related to understanding the effects of pollution and are part of the interdisciplinary research theme "The Air We Breathe 2.0" at the Pufendorf Instiute. Pollution-induced disease is one of the most important global health issues, not least in low and middle income countries. In addition, we investigate pollution effects in other organisms. We also create AI-based tools for other researchers in medicine, life science and environmental research and consult and educate them about the uses, advantages and disadvantages of AI.
+To promote interdisciplinary science related to the SDGs, we have also organized seminars and workshops that aim to showcase interesting projects and promote collaborations (see below).
 
 ## Green computing
 In an effort to minimize our negative footprint, we have educated ourselves about green computing and the negative impacts of using artificial intelligence. We have also started to  build up collaborations and apply for reserach funding to investigate this further. 
@@ -62,11 +63,11 @@ Our goal for 2022 is to start tracking our computational usage more systematical
 
 ### Open science
 
-Our goal is to share all code and data that can be released without privacy issues.
+Our goal is to share code and data connected to all papers published about our research.
 
 ### Open education
 
-Our goal is to share even more educational materials for teachers and students so that more people have access to high-quality education related to AI, medicine and sustainability.
+Our goal is to share even more educational materials for teachers and students so that more people have access to high-quality education related to AI, medicine and sustainability. This will include publication of lectures from the "AI in Medicine and Life Science" courses on youtube.
 
 
 
