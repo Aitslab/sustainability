@@ -49,6 +49,8 @@ We have presented at/organized the following scientific meetings and outreach ev
 
 2021-11-09/10     Organization and talk, Forskningens Dag 2021, Lund University (aimed at general public)
 
+2021-11-22        Hub AI Student Panel Discussion: AI and Sustainable Development 
+
 2021-12-07	      Talk “AI as a tool and target for sustainability research”, MERGE annual meeting, Lund University
 
 2021-12-08	      Organization and talk, Workshop ”AI for climate and environmental research”, Lund University
@@ -60,6 +62,16 @@ Through our involvement in COMPUTE, AI Lund, the Faculty of Medicine sustainabil
 
 We have also organized a series of events related to "AI and sustainability" to better connect the AI, health and sustainability communities at LU (see above), showcase interesting science and promote discussion. Most of these activities were organized through our involvement in COMPUTE, AI Lund, HubAI and the Pufendorf Theme "The Air We Breathe 2.0" and we have also cooperated with the Agenda 2030 Reesarch school and sustainability communities at LU. In addition, we are contributing to the implementation of the Faculty of Medicine Sustainability Action Plan as part of the working groups "Active collaboration" and "Resources and Tools" and we have initiated discussions about sustainability efforts and potential certification on the department board.
 
+
+## Social impacts/limitations of current projects
+Following is a list of our ongoing projects and their social impact/limitations: 
+
+| Project 	| Description                                                                                                                     	| Impact/Limitations                                                                                                                                                                   	|
+|---------	|---------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| NLP-ENG 	| Development of a deep learning based end-to-end, information extraction pipeline to process large amounts of research text data 	| Reduces the time and resources required to manually extract information. A scalable, non-domain specific solution that has the potential to cover several subpoints under the SDG 3  	|
+| NLP-SWE 	| Development of clinical text processing and information extraction solution for the Swedish Healthcare System                   	| Fast and efficient patient processing and diagnosis to aid healthcare professionals                                                                                                  	|
+| Histo   	| Histology screening for microscopic images                                                                                      	| Efficient use of time and resources such as omitting expensive lab work and digitally processing images. Incorporates several points among SDG 3 and 9                              	|
+| Micro   	| Cell segmentation from microscopic images                                                                                       	| Same as above                                                                                                                                                                        	|                                                                                     	| * Same as above                                                                                                                                                                             	|
 
 ## Goals for 2022
 
