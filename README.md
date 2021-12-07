@@ -1,4 +1,4 @@
-# Sustainability report of the Cell Death, Lysosomes and Artificial Intelligence Group - 2021
+# Sustainability report of the Cell Death, Lysosomes and Artificial Intelligence Group - 2020/2021
 Our group has had sustainability guidelines and a sustainability consultant ([Tobias Hörnlein](https://www.linkedin.com/in/toby-hörnlein-095a96112/))  for several years. As part of our sustainability efforts we will now also release sustainability reports every year. This document is the first draft and will be updated with additional information.
 
 ## Sustainability-related research
@@ -8,7 +8,7 @@ To promote interdisciplinary science related to the SDGs, we have also organized
 ## Green computing
 In an effort to minimize our negative footprint, we have educated ourselves about green computing and the negative impacts of using artificial intelligence. We have also started to  build up collaborations and apply for reserach funding to investigate this further. 
 
-To understand the environmental impact of our computations, we have contacted the SNIC supercomputing infrastructures about their sustainablity status and activities. Unfortunately, the SNIC centres do not yet produce sustainability reports that would allow us to judge which supercomputing centre has the lowest negative impact and we therefore cannot yet direct our activities to a specifc infrastructure based on this. In the meantime, we have decided that we will at least track our computational use.
+To understand the environmental impact of our computations, we have contacted the SNIC supercomputing infrastructures about their sustainablity status and activities. Unfortunately, the SNIC centres do not yet produce sustainability reports that would allow us to judge which supercomputing centre has the lowest negative impact and we therefore cannot yet direct our activities to a specifc infrastructure based on this. In the meantime, we have decided that we will at least track our computational use and facilitate the re-use of models in our group by establishing a model inventory.
 
 ## Consumption and travel
 We have since 2018, eliminated all printing, except for cases where it is absolutely required, e.g. for faculty documents. As we currently do not have laboratory operations, we also do not consume laboratory chemicals or plastic ware. Some computational equipment was purchased. This could not be bought second hand as the university currently has no agreement in place and we are bound by public procurement regulations. We have, however, raised this issue in the Faculty's sustainability working group and wherever wlese possible and hope that the university will eventually get an agreement that allows us to buy refurbished equipment where it is suitable.
@@ -55,19 +55,33 @@ We have presented at/organized the following scientific meetings and outreach ev
 
 LIST UNDER CONSTRUCTION
 
+## Partnerships and raising awareness
+Through our involvement in COMPUTE, AI Lund, the Faculty of Medicine sustainability working groups and the Pufendorf Theme "The Air We Breathe 2.0" we have formed several new partnerships with other researchers who share our sustainability-related goals and want to work together and exchange knowledge and tools. We have also established interactions with with several of the sustainability-related research environments at LU through our outreach activities (Agenda 2030 Research School, CEC, MERGE, ClimBEco, Sustainability Forum and BECC). We have also formed new collaborations with medical research groups. With some of these new partners we have initiated joint projects or written joint applications for SDG-related projects already, and we plan for additional activities in 2022.
+Sonja has also launched a series of events related to "AI and sustainability" to better connect the AI, health and sustainability communities at LU (see above). In addition, she is contributing to the implementation of the Faculty of Medicine Sustainability Action Plan as part of the working groups "Active collaboration" and "Resources and Tools" and has initiated discussions about sustainability efforts and potential certification on the department board.
+
 
 ## Goals for 2022
+
+### Sustainability-related research
+We will continue our research at the intersection of medicine, environmental science and AI and aim to publish several findings during 2022.
+
 ### Green computing
+Our goal is to implement systematic tracking of our computational usage and model development so that we can evaluate its environmental impact and work towards reducing it, e.g. by model re-use and sharing. We also aim to set up a research project where we evaluate the sustainability of the type of AI tools we develop.
 
-Our goal for 2022 is to implement systematic tracking of our computational usage so that we can evaluate its environmental impact and work towards reducing it. We are also trying to set up a research project where we evaluate the sustainability of the type of AI tools we develop.
+### Consumption and travel
+Our goal is to implement systematic tracking of our work-related consumption and travel so that we can evaluate its environmental impact and work towards reducing it. For all travel and consumption, sustainability is to be used as one of the primary selection criteria.
 
-### Open science
+### Diversity and ethics
+We will continue to promote diversity and ethical research through teaching and outreach activities and inside our group.
 
-Our goal is to share code and data with each paper published about our research.
+### Open science and education
+Our goal is to share code and data with each paper published about our research. In addition, we plan to launch citizen science projects related to computer vision and natural language processing.
+We also aim to publish additional educational materials so that more people have access to high-quality education related to AI, medicine and sustainability. This will include publication of lectures and material from the "AI in Medicine and Life Science" courses. 
 
-### Open education
+### Partnerships and raising awareness
+During 2022, we aim to deepen our ties to other researchers who share our goals, with joint research projects, applications and other activities. We will also continue to raise awareness for sustainability in any suitable context and organize activities that connect the sustainability, health and computational communities on a local, national and international level.
 
-Our goal is to share even more educational materials so that more people have access to high-quality education related to AI, medicine and sustainability. This will include publication of lectures from the "AI in Medicine and Life Science" courses on youtube.
+
 
 
 
