@@ -6,7 +6,7 @@ We aim to contribute to the sustainable development goals in all of our research
 To promote interdisciplinary science related to the SDGs, we have also organized seminars and workshops that aim to showcase interesting projects and promote collaborations (see below).
 
 ## Green computing
-In an effort to minimize our negative footprint, we have educated ourselves about green computing and the negative impacts of using artificial intelligence. We have also started to  build up collaborations and apply for reserach funding to investigate this further. 
+In an effort to minimize our group's footprint, we have educated ourselves about green computing and the negative impacts of using artificial intelligence. We have also started to  build up collaborations and apply for reserach funding to investigate this further. 
 
 To understand the environmental impact of our computations, we have contacted the SNIC supercomputing infrastructures about their sustainablity status and activities. Unfortunately, the SNIC centres do not yet produce sustainability reports that would allow us to judge which supercomputing centre has the lowest negative impact and we therefore cannot yet direct our activities to a specifc infrastructure based on this. In the meantime, we have decided that we will at least track our computational use and facilitate the re-use of models in our group by establishing a model inventory.
 
